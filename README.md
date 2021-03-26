@@ -1,2 +1,5 @@
-# D_Mobile_E41192426_MuhammadSyarifJanuriansyah
-Workshop Mobile
+# Workshop Aplikasi Mobile
+MuhammadSyarifJanuriansyah
+E41192426
+Golongan D
+

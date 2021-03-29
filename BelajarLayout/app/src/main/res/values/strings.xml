@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BelajarLayout</string>
+
+
+    <string name="belajar_layout">Belajar Layout</string>
+
+    <string name="linear_lay">Linear Layout</string>
+
+    <string name="tabel_layout">Tabel Layout</string>
+    <string name="scroll_view">Scroll View</string>
+    <string name="scrollview_horizontal">Scroll View Horizontal</string>
+
+</resources>

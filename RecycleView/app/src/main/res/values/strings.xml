@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="title">Title</string>
+
+    <string-array name="KebudayaanDaerah">
+        <item>Kebudayaan Jawa</item>
+        <item>Kebudayaan Bali</item>
+        <item>Kebudayaan Sumatera Barat</item>
+        <item>Kebudayaan Aceh</item>
+    </string-array>
+
+    <string-array name="ini_deskripsi">
+        <item>Ini Deskripsinya</item>
+        <item>Ini Deskripsinya</item>
+        <item>Ini Deskripsinya</item>
+        <item>Ini Deskripsinya</item>
+    </string-array>
+</resources>
